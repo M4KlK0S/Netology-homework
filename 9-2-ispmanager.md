@@ -1,50 +1,62 @@
 # Домашнее задание к занятию "Практическое задание «Конфигурация почтового сервиса»" - Костенко Максим
 
-## Шаг 1
+## Шаг 1. 
 
 Установите все нужные возможности почтового сервера в панели, создайте почтовый домен и почтовый ящик. 
 
-**Скриншот открытого меню панели «Конфигурация ПО»**
+Скриншот открытого меню панели «Конфигурация ПО»
 
-<img width="208" height="338" alt="Image" src="https://github.com/user-attachments/assets/2fb5a539-771b-41f0-a624-1859fa41fcc2" />
+<img width="950" height="942" alt="Image" src="https://github.com/user-attachments/assets/835ebf6c-2e58-4e67-a40d-63a70539989d" />
 
-**Скриншот созданного почтового домена**
-
-<img width="547" height="1036" alt="Image" src="https://github.com/user-attachments/assets/ecf9094b-ff57-4cc7-9c05-23c6f6c306c9" />
-
-**Скриншот созданного почтового ящика**
-
-<img width="468" height="642" alt="Image" src="https://github.com/user-attachments/assets/23f4b81b-9a64-4ab6-b745-6acba44a9641" />
-
-## Шаг 2
+## Шаг 2.
 
 Выполните все необходимые настройки в панели и на стороне провайдера доменных имён.
 
-**Скриншот открытого меню панели «Почта»**
+Скриншот открытого меню панели «Почта»
 
-<img width="2250" height="264" alt="Image" src="https://github.com/user-attachments/assets/99f462df-52a1-4456-8db6-c50b860ba0db" />
+<img width="2239" height="272" alt="image" src="https://github.com/user-attachments/assets/1b64c449-4bea-4f1e-8a95-65d06fc8eff0" />
 
-**Скриншот открытого меню панели «Почтовые домены»**
+Скриншот открытого меню панели «Почтовые домены»
 
-<img width="547" height="1036" alt="Image" src="https://github.com/user-attachments/assets/ecf9094b-ff57-4cc7-9c05-23c6f6c306c9" />
+<img width="2246" height="275" alt="image" src="https://github.com/user-attachments/assets/09417e98-994e-4092-b8ec-60e5aba7ec4b" />
 
-## Шаг 3
+## Шаг 3.
 
 Проверьте вашу почту онлайн-инструментами, исправьте найденные недочёты.
 
-**Ссылки на итоги проверки выбранным онлайн-инструментом**
+1. mxtoolbox.com
+2. wedos.tools
 
-**Дублирующий скриншот(ы) страницы этой проверки**
+Ссылки на итоги проверки выбранным онлайн-инструментом
 
-## Шаг 4
+1. https://mxtoolbox.com/emailhealth/mk-industrias.online/
+2. https://insight.wedos.tools/report.php?id=10659&hash=9db18413c22062b700e2d57c0ffb62b96293dd788ccf5671e0422c574c3e1e37
+
+Дублирующий скриншот(ы) страницы этой проверки
+
+1. Скриншот результата mxtoolbox.com
+
+<img width="2540" height="1053" alt="image" src="https://github.com/user-attachments/assets/c3b65206-c869-43fe-bcf5-72b8d6910e09" />
+
+2. Скриншот результата wedos.tools
+
+<img width="1751" height="1274" alt="image" src="https://github.com/user-attachments/assets/cca1b17c-beda-42bb-9c2c-0902b9d9fc90" />
+
+
+## Шаг 4. 
 
 Настройте фильтры и автоответчик, отправьте с личного ящика несколько писем на ящик вашего почтового сервера, получите автоматический ответ, проверьте работу фильтров.
 
-**Скриншоты меню фильтров**
+Скриншоты меню фильтров
 
-**Скриншоты писем в веб-интерфейсе Roundcube, отфильтрованных по фильтрам**
+Скриншоты писем в веб-интерфейсе Roundcube, отфильтрованных по фильтрам
 
-**Скриншоты писем, посланных автоответчиком**
+Скриншоты писем, посланных автоответчиком
+
+
+
+
+
 
 
 
