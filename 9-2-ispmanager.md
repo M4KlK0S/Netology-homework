@@ -20,7 +20,7 @@
 
 Нажимаем Установить / Сохранить.
 
-<img width="208" height="338" alt="image" src="https://github.com/user-attachments/assets/62e97343-1a76-41d0-9554-687b3424d0f2" />
+<img width="208" height="338" alt="Image" src="https://github.com/user-attachments/assets/2fb5a539-771b-41f0-a624-1859fa41fcc2" />
 
 **1.2. Создание почтового домена**
 
