@@ -43,7 +43,7 @@
 
 Нажимаем Создать.
 
-<img width="547" height="1036" alt="image" src="https://github.com/user-attachments/assets/a4fab6d4-669e-4299-9876-6e82ce462d32" />
+<img width="547" height="1036" alt="Image" src="https://github.com/user-attachments/assets/ecf9094b-ff57-4cc7-9c05-23c6f6c306c9" />
 
 **1.3. Создание почтового ящика**
 
@@ -58,7 +58,7 @@
 
 Нажимаем Создать.
 
-<img width="468" height="642" alt="image" src="https://github.com/user-attachments/assets/d41fa68e-0803-466a-86f6-f07d83f0ecab" />
+<img width="468" height="642" alt="Image" src="https://github.com/user-attachments/assets/23f4b81b-9a64-4ab6-b745-6acba44a9641" />
 
 ## 2. Настройка DNS-записей у регистратора
 
@@ -173,7 +173,7 @@ dig +short -x <PUBLIC_IP>
 
 Нажимаем Выпустить.
 
-<img width="2228" height="218" alt="image" src="https://github.com/user-attachments/assets/8f19b6d0-3177-41cb-82ae-670bf1b99d14" />
+<img width="2228" height="218" alt="Image" src="https://github.com/user-attachments/assets/4c0e0f4d-e78a-49af-a580-a15319a152ef" />
 
 **3.2. Применение**
 
@@ -181,7 +181,7 @@ dig +short -x <PUBLIC_IP>
 
 В поле SSL-сертификат выбери выпущенный. Сохрани.
 
-<img width="448" height="157" alt="image" src="https://github.com/user-attachments/assets/6752a381-37f6-43af-a86b-b5e381de7989" />
+<img width="448" height="157" alt="Image" src="https://github.com/user-attachments/assets/7cccad76-3015-4c05-beb5-01978d44aff5" />
 
 ## 4. Проверка почты онлайн-инструментами
 ```bash
@@ -226,7 +226,7 @@ curl -fsSIL --max-time 5 https://mk-industrias.online/
 
 Нажимаем Включить / Сохранить.
 
-<img width="559" height="721" alt="image" src="https://github.com/user-attachments/assets/8258b8bf-8e7e-446a-9cf5-2c801b07670f" />
+<img width="559" height="721" alt="Image" src="https://github.com/user-attachments/assets/34d13e73-2156-4a41-9ea5-3e6c104c3855" />
 
 **5.2. Фильтр**
 
@@ -238,7 +238,7 @@ curl -fsSIL --max-time 5 https://mk-industrias.online/
 | Сопоставление условий | Все истинны | Для одного условия разницы нет. Оставь по умолчанию |
 | Расположить перед | ***поместить в конец*** | Оставь по умолчанию — фильтр будет последним в списке |
 
-<img width="753" height="448" alt="image" src="https://github.com/user-attachments/assets/05c1956d-9b91-446d-80f2-54611408b101" />
+<img width="753" height="448" alt="Image" src="https://github.com/user-attachments/assets/7dae053c-9788-493a-a182-1d9ed7c01181" />
 
 Нажимаем «Далее».
 
@@ -252,7 +252,7 @@ curl -fsSIL --max-time 5 https://mk-industrias.online/
 | Значения | спам | Ключевое слово, по которому срабатывает фильтр |
 | Условие 2 | не выбрано | Второе условие не нужно |
 
-<img width="749" height="544" alt="image" src="https://github.com/user-attachments/assets/db5f1bc3-cca5-41e4-9117-f2eeb7707216" />
+<img width="749" height="544" alt="Image" src="https://github.com/user-attachments/assets/19679cac-17c2-4746-813c-489bf2b8aee5" />
 
 Нажимаем «Далее».
 
@@ -282,7 +282,7 @@ curl -fsSIL --max-time 5 https://mk-industrias.online/
 
 1. Письма в Roundcube, отфильтрованные.
 
-<img width="1118" height="284" alt="image" src="https://github.com/user-attachments/assets/6c36851e-c6c7-4c7b-a3ac-63768faed238" />
+<img width="1118" height="284" alt="Image" src="https://github.com/user-attachments/assets/42160787-772c-45a2-b331-c248bd1fd0c5" />
 
 2. Письмо с автоответчиком.
 
@@ -296,17 +296,18 @@ ispmanager → IP-адреса → NAT — включи, укажи:
 
 Сохрани.
 
-<img width="472" height="302" alt="image" src="https://github.com/user-attachments/assets/acc72002-880c-4e0e-9167-84c1aba2513e" />
+<img width="472" height="302" alt="Image" src="https://github.com/user-attachments/assets/305ce9e9-06da-4670-a462-ef0bc3112f70" />
 
 Создай 2 ящика: user1@mk-industrias.online и user2@mk-industrias.online.
 
-<img width="2223" height="86" alt="image" src="https://github.com/user-attachments/assets/5d30e53d-877e-4faa-a290-084f2b777b9a" />
+<img width="2223" height="86" alt="Image" src="https://github.com/user-attachments/assets/bb23fea3-7d12-4f2a-b734-0b779e7dfa4c" />
 
 Отправь письмо с user1 на user2 через Roundcube. Потом ответь обратно. Оба должны дойти.
 
-<img width="1200" height="288" alt="image" src="https://github.com/user-attachments/assets/297ca4fe-39a6-4923-910d-7b40216e4403" />
+<img width="1200" height="288" alt="Image" src="https://github.com/user-attachments/assets/7b962608-59dc-42a0-b26c-6d653776ff7c" />
 
 Проверка автоответчика, было получено сообщение в ответ
-<img width="1618" height="294" alt="image" src="https://github.com/user-attachments/assets/732c0589-1f35-4480-9f78-e4c779cdec2b" />
+
+<img width="1618" height="294" alt="Image" src="https://github.com/user-attachments/assets/f1c7fa22-f8b2-429f-88bf-180e7019e032" />
 
 Проверь автоответчик и фильтр — оба работают через локальный обмен.
