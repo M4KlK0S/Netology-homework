@@ -49,7 +49,17 @@
 
 Скриншоты меню фильтров
 
+<img width="2253" height="263" alt="Image" src="https://github.com/user-attachments/assets/e2e1bf14-4293-43e4-b7ae-3e0f04f73e30" />
+
 Скриншоты писем в веб-интерфейсе Roundcube, отфильтрованных по фильтрам
+
+1. Фильтр по перемещению писем в spam
+
+<img width="1203" height="295" alt="image" src="https://github.com/user-attachments/assets/714aa0ce-8a64-4cf1-9e18-628e53291188" />
+
+2. Фильтр по перемещению писем пользователя i297@bk.ru
+
+<img width="1205" height="287" alt="image" src="https://github.com/user-attachments/assets/4b500930-85dd-4fa9-b0cd-eb485b4fe8b1" />
 
 Скриншоты писем, посланных автоответчиком
 
