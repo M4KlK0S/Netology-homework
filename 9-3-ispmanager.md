@@ -69,7 +69,7 @@
 
 Нажмите Создать.
 
-<img width="685" height="839" alt="image" src="https://github.com/user-attachments/assets/7a2d94bb-733f-457c-97d9-b8459277b681" />
+<img width="685" height="839" alt="Image" src="https://github.com/user-attachments/assets/59a13eaa-ba4c-4797-9e3f-0f2ba8031e7e" />
 
 
 💡 Сохраните данные для входа в админку WordPress из всплывающего уведомления (иконка колокольчика в правом верхнем углу): логин, пароль, имя БД, пользователь БД, пароль БД.
