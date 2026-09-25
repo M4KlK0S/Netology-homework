@@ -74,7 +74,7 @@
 
 💡 Сохраните данные для входа в админку WordPress из всплывающего уведомления (иконка колокольчика в правом верхнем углу): логин, пароль, имя БД, пользователь БД, пароль БД.
 
-<img width="453" height="589" alt="image" src="https://github.com/user-attachments/assets/5cd88ce1-5176-44e9-ba4b-e676547accc9" />
+<img width="453" height="589" alt="Image" src="https://github.com/user-attachments/assets/9f503fa8-6b23-43e5-b40b-f057b2ef99f0" />
 
 Если пропустили — контекстное меню сайта → WordPress → данные отобразятся заново.
 
@@ -84,11 +84,11 @@
 
 Убедитесь, что открывается главная страница WordPress.
 
-<img width="2554" height="727" alt="image" src="https://github.com/user-attachments/assets/7ddd03c0-6ce5-4b2a-b1e6-14d477fb8960" />
+<img width="2554" height="727" alt="Image" src="https://github.com/user-attachments/assets/8d89ae4d-adb4-4268-b380-458faf5e426a" />
 
 В ispmanager → Базы данных — убедитесь, что БД сайта создана.
 
-<img width="2225" height="217" alt="image" src="https://github.com/user-attachments/assets/0be6021a-a5fe-4ea9-a375-d2324d41e0b0" />
+<img width="2225" height="217" alt="Image" src="https://github.com/user-attachments/assets/03dbbc92-7991-4b0f-876c-37237401f365" />
 
 В ispmanager → Сайты → сайт — статус Активен.
 
@@ -106,7 +106,7 @@
 
 Нажмите Скачать (или Архив → Скачать).
 
-<img width="2250" height="258" alt="image" src="https://github.com/user-attachments/assets/92b67675-cb5a-40d9-8c5d-4b1c48d2f850" />
+<img width="2250" height="258" alt="Image" src="https://github.com/user-attachments/assets/89079525-84ee-4ce4-b0c3-2e61b16f560c" />
 
 Сохраните архив на локальный компьютер.
 
@@ -120,7 +120,7 @@
 
 Браузер скачает .sql-файл.
 
-<img width="2193" height="546" alt="image" src="https://github.com/user-attachments/assets/3cbf95a6-77c9-4b0f-ab93-8f6529c46f4d" />
+<img width="2193" height="546" alt="Image" src="https://github.com/user-attachments/assets/8be1d124-da8e-4bb4-b1c5-cac7d0ca12fd" />
 
 Сохраните его на локальный компьютер.
 
@@ -146,7 +146,7 @@
 
 Убедитесь, что в списке появилась новая запись с текущей датой.
 
-<img width="2242" height="383" alt="image" src="https://github.com/user-attachments/assets/f78964c2-735a-403c-86ef-2d59610535ff" />
+<img width="2242" height="383" alt="Image" src="https://github.com/user-attachments/assets/8a48300e-e32e-4778-a327-781a544ed928" />
 
 ## 4. Сценарий 1: Имитация сбоя
 
@@ -160,7 +160,7 @@
 
 Нажмите Удалить → подтвердите.
 
-<img width="1367" height="396" alt="image" src="https://github.com/user-attachments/assets/16cb8651-85e1-4244-b297-898539ec88ac" />
+<img width="1367" height="396" alt="Image" src="https://github.com/user-attachments/assets/d9b802bc-5628-4622-908b-ef0b45592641" />
 
 **4.2. Удаление базы данных**
 
@@ -170,13 +170,13 @@
 
 Нажмите на неё → Удалить → подтвердите.
 
-<img width="1265" height="400" alt="image" src="https://github.com/user-attachments/assets/980b82d3-4818-4506-91e8-f2e0ab7854d7" />
+<img width="1265" height="400" alt="Image" src="https://github.com/user-attachments/assets/88777f2a-f8b3-495e-8aad-cdf3c7b9f557" />
 
 **4.3. Проверка «сбоя»**
 
 Откройте сайт в браузере — он не должен открываться (ошибка 500, 404 или пустая страница).
 
-<img width="460" height="183" alt="image" src="https://github.com/user-attachments/assets/dce5f129-193b-46ba-af03-2ae8c444cbee" />
+<img width="460" height="183" alt="Image" src="https://github.com/user-attachments/assets/ce47dd64-96d0-4f82-97f6-4a8fd38c321f" />
 
 ## 5. Восстановление из локальных архивов
 
@@ -202,7 +202,7 @@
 
 Укажите путь /var/www/netology/data/www/mk-industrias.online/.
 
-<img width="2212" height="443" alt="image" src="https://github.com/user-attachments/assets/373879dd-0588-49a6-95df-594279dc5ae0" />
+<img width="2212" height="443" alt="Image" src="https://github.com/user-attachments/assets/61e2340e-4cf7-4e5e-b6f1-933ee7b0ec75" />
 
 Нажмите ОК.
 
@@ -234,7 +234,7 @@
 
 Откройте сайт в браузере — он должен работать.
 
-<img width="2559" height="767" alt="image" src="https://github.com/user-attachments/assets/82e269f2-939d-48cc-9499-60ed0bd64925" />
+<img width="2559" height="767" alt="Image" src="https://github.com/user-attachments/assets/9db7ee85-6b66-4d1f-932b-c0fc0931e998" />
 
 ## 6. Передача сайта пользователю ispmanager
 
@@ -246,7 +246,7 @@
 Новый владелец	ispmanager
 Нажмите Сменить.
 
-<img width="683" height="763" alt="image" src="https://github.com/user-attachments/assets/a50c9740-8020-4956-84d0-121dd948b0f1" />
+<img width="683" height="763" alt="Image" src="https://github.com/user-attachments/assets/14fc8520-935d-4c79-9903-417196b5a13f" />
 
 💡 Вместе с сайтом переносятся: файлы сайта, БД и пользователь БД, SSL-сертификат, домен.
 
@@ -254,7 +254,7 @@
 
 В ispmanager → Сайты — владелец изменился на ispmanager.
 
-<img width="2247" height="256" alt="image" src="https://github.com/user-attachments/assets/44ceb02d-6cfb-49bc-939f-d0cf2533a9f2" />
+<img width="2247" height="256" alt="Image" src="https://github.com/user-attachments/assets/f578bcb0-c79d-4010-95e0-556065129a15" />
 
 Откройте сайт в браузере — он работает.
 
@@ -268,7 +268,7 @@
 
 Подтвердите удаление.
 
-<img width="2284" height="743" alt="image" src="https://github.com/user-attachments/assets/620be28a-d5c9-48e7-81f2-aa28293dd452" />
+<img width="2284" height="743" alt="Image" src="https://github.com/user-attachments/assets/7c492a81-c2c8-462b-8b6c-3af860eabe45" />
 
 ⚠️ Удаление пользователя удалит все его ресурсы, включая сайт и БД.
 
@@ -294,7 +294,7 @@
 
 ✅ Системные файлы
 
-<img width="2237" height="740" alt="image" src="https://github.com/user-attachments/assets/56de8b64-213b-4f48-8c04-d357e7d0cdd9" />
+<img width="2237" height="740" alt="Image" src="https://github.com/user-attachments/assets/fb35f510-6323-4984-9b5f-2a9c15a22c0f" />
 
 Нажмите Восстановить.
 
