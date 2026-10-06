@@ -22,13 +22,19 @@
 
 Скриншот, подтверждающий смену владельца сайта
 
+<img width="2242" height="270" alt="Image" src="https://github.com/user-attachments/assets/fc3ccf17-570d-4559-a014-b6fc7f78e6e3" />
+
 ## Шаг 5.
 
 Скриншот раздела «Пользователи» без ispmanager
 
+<img width="2241" height="354" alt="Image" src="https://github.com/user-attachments/assets/ab272728-a620-4f47-9283-14959dd50983" />
+
 ## Шаг 6.
 
 Скриншот раздела «Сайты» с владельцем netology
+
+
 
 ---
 
