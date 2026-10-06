@@ -10,6 +10,8 @@
 
 Скриншот раздела «Сайты» с созданным сайтом для netology
 
+<img width="685" height="839" alt="Image" src="https://github.com/user-attachments/assets/59a13eaa-ba4c-4797-9e3f-0f2ba8031e7e" />
+
 ## Шаг 3.
 
 Скриншот с созданной резервной копией пользователя
