@@ -4,6 +4,8 @@
 
 Скриншот раздела «Пользователи» с созданными пользователями netology и ispmanager
 
+<img width="1518" height="439" alt="image" src="https://github.com/user-attachments/assets/770354be-b887-4664-b71f-96417556c8d1" />
+
 ## Шаг 2.
 
 Скриншот раздела «Сайты» с созданным сайтом для netology
