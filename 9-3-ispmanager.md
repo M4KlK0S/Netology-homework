@@ -34,7 +34,7 @@
 
 Скриншот раздела «Сайты» с владельцем netology
 
-
+<img width="2241" height="271" alt="image" src="https://github.com/user-attachments/assets/78d0f980-8427-40e2-8051-cf3219459a2b" />
 
 ---
 
