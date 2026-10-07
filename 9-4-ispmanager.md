@@ -29,9 +29,9 @@
 
 Скриншоты: открытые меню «Настройки системы» и «Настройки пользователя root».
 
-<img width="472" height="1073" alt="image" src="https://github.com/user-attachments/assets/e95b2df8-f0e9-460a-9360-82d22a66905a" />
+<img width="472" height="1073" alt="Image" src="https://github.com/user-attachments/assets/7a1de32f-7a3b-4f8a-a83e-053597d7e861" />
 
-<img width="701" height="1227" alt="image" src="https://github.com/user-attachments/assets/956e954c-7a48-4022-b283-176542ae5966" />
+<img width="701" height="1227" alt="Image" src="https://github.com/user-attachments/assets/4525b249-8b43-4be1-93df-2739b529d167" />
 
 ## 3. Создание сайтов под разными пользователями
 
@@ -39,7 +39,7 @@
 
 Скриншот: меню панели «Сайты» с несколькими сайтами разных владельцев.
 
-<img width="2248" height="359" alt="image" src="https://github.com/user-attachments/assets/284be22c-a8ba-4e2c-88a8-ddaf658f2fbe" />
+<img width="2248" height="359" alt="Image" src="https://github.com/user-attachments/assets/942aa66a-4727-4455-8d34-140aebe2bcff" />
 
 ## 4. Дополнительная директория с ограничением доступа
 
@@ -52,9 +52,9 @@
 
 Скриншоты: меню «Ограничения доступа» и «Файлы сайта».
 
-<img width="624" height="268" alt="image" src="https://github.com/user-attachments/assets/ec59a78b-6f09-46f5-826a-98cb31546f9c" />
+<img width="624" height="268" alt="Image" src="https://github.com/user-attachments/assets/27ab87d0-1d8f-4452-98ad-a6a3987a0689" />
 
-<img width="2244" height="351" alt="image" src="https://github.com/user-attachments/assets/6e138c63-272c-4a2d-a244-ef81cd80d4db" />
+<img width="2244" height="351" alt="Image" src="https://github.com/user-attachments/assets/627d1f4f-5749-43db-9c57-b4adec3420c6" />
 
 ## 5. Отдельная резервная копия сайта
 
@@ -62,7 +62,7 @@
 
 Скриншот: меню «Восстановление сайта» с выделенной копией.
 
-<img width="2233" height="885" alt="image" src="https://github.com/user-attachments/assets/f2017a87-5985-42a6-85bd-9da2bfb3813e" />
+<img width="2233" height="885" alt="Image" src="https://github.com/user-attachments/assets/d4dbbb44-6b78-4ed8-9a19-eaa9ef3d906b" />
 
 ## 6. Резервное копирование по расписанию
 
@@ -80,9 +80,9 @@
 
 Скриншоты: «Расширенные настройки» и «Расписание».
 
-<img width="2239" height="1247" alt="image" src="https://github.com/user-attachments/assets/4cd7b3c8-954b-4c73-ac31-9d6002b8f16e" />
+<img width="2239" height="1247" alt="Image" src="https://github.com/user-attachments/assets/ef48a310-93fa-463e-b24d-29553e1536ad" />
 
-<img width="2234" height="641" alt="image" src="https://github.com/user-attachments/assets/af14d4b4-94da-4dfc-a98c-dd7ad4a45d4e" />
+<img width="2234" height="641" alt="Image" src="https://github.com/user-attachments/assets/51f499f1-2c48-4d19-a354-4620d227fb95" />
 
 ## 7. Защита от DDoS для сайта
 
@@ -94,7 +94,7 @@
 
 Скриншот: раздел «Защита от DDoS».
 
-<img width="2215" height="1148" alt="image" src="https://github.com/user-attachments/assets/b43d970e-4617-4ce9-837d-200aec16cbf7" />
+<img width="2215" height="1148" alt="Image" src="https://github.com/user-attachments/assets/9fc2fd13-3e57-4e03-adfb-c89a970a6c31" />
 
 ## 8. Установка антивируса и сканирование
 
@@ -119,7 +119,7 @@
 
 Скриншот: меню глобальных настроек Fail2ban.
 
-<img width="469" height="405" alt="image" src="https://github.com/user-attachments/assets/b65b4f44-6d92-4595-867b-c826862878ef" />
+<img width="469" height="405" alt="Image" src="https://github.com/user-attachments/assets/4af706cf-9119-4bb0-b3a1-0d72b3635695" />
 
 ## 10. Новый администратор-суперпользователь
 
@@ -132,9 +132,9 @@
 
 Скриншот: меню «Администраторы».
 
-<img width="465" height="517" alt="image" src="https://github.com/user-attachments/assets/3dc5dd67-85a6-478f-95c4-66198884d4fd" />
+<img width="465" height="517" alt="Image" src="https://github.com/user-attachments/assets/a5cffce8-646b-4720-bdc7-3b60c97704cc" />
 
-<img width="2241" height="350" alt="image" src="https://github.com/user-attachments/assets/6c40aa6d-3740-4843-bb98-76ea94ef6664" />
+<img width="2241" height="350" alt="Image" src="https://github.com/user-attachments/assets/65cdaadc-c3ef-4d7e-939e-5a253a33b288" />
 
 ## 11. Параметры SSH
 
