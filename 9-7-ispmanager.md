@@ -120,7 +120,7 @@ WordPress - это самое популярное CMS в мире. Широко
 
 ### Скриншот 6. Брандмауэр UFW
 
-<img width="820" height="609" alt="Image" src="https://github.com/user-attachments/assets/9dd18b68-529e-4cfc-a517-fc2e60862c06" />
+<img width="810" height="320" alt="Image" src="https://github.com/user-attachments/assets/fb0f34c8-a533-42ab-8ce4-5f988232aecb" />
 
 ### Скриншот 7. Защита от DDoS
 
