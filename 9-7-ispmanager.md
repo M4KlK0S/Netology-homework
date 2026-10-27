@@ -116,7 +116,7 @@ WordPress - это самое популярное CMS в мире. Широко
 
 ### Скриншот 5. Настройки Fail2ban
 
-<img width="449" height="354" alt="Image" src="https://github.com/user-attachments/assets/6f60f28d-dfb1-4f69-ac04-34143ec0c72e" />
+<img width="455" height="404" alt="Image" src="https://github.com/user-attachments/assets/e80d2e7c-cba7-42b8-a086-ddbcb58eb0f7" />
 
 ### Скриншот 6. Брандмауэр UFW
 
