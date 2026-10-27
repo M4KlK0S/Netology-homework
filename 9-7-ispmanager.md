@@ -94,38 +94,38 @@ WordPress - это самое популярное CMS в мире. Широко
 
 ## 5. 5-8 скриншотов, которые подтверждают ключевые настройки (панель, SSL, брандмауэр, бэкапы)
 
-Скриншот 0. Проверка DNS-записей и доступности почтовых портов
+### Скриншот 0. Проверка DNS-записей и доступности почтовых портов
 
 <img width="659" height="423" alt="Image" src="https://github.com/user-attachments/assets/261ba907-30eb-4ad6-9443-e98497d3ff15" />
 
-Скриншот 1. Раздел сайты (галочка SSL указывает на корректность работы сертификата)
+### Скриншот 1. Раздел сайты (галочка SSL указывает на корректность работы сертификата)
 
 <img width="1314" height="290" alt="Image" src="https://github.com/user-attachments/assets/db1a6957-51e2-4d34-aa5f-f953e6b271f8" />
 
-Скриншот 2. SSL-сертификат для сайта
+### Скриншот 2. SSL-сертификат для сайта
 
 <img width="456" height="526" alt="Image" src="https://github.com/user-attachments/assets/444d6516-a031-401b-9f6a-42c03e0ed8a2" />
 
-Скриншот 3. Почтовые домены
+### Скриншот 3. Почтовые домены
 
 <img width="1512" height="252" alt="Image" src="https://github.com/user-attachments/assets/cf924182-0520-4f78-8549-6fa24c7a44ab" />
 
-Скриншот 4. Почтовые ящики
+### Скриншот 4. Почтовые ящики
 
 <img width="1601" height="282" alt="Image" src="https://github.com/user-attachments/assets/a9d8cdb9-0b42-40d7-8a27-71b5e2550040" />
 
-Скриншот 5. Настройки Fail2ban
+### Скриншот 5. Настройки Fail2ban
 
 <img width="449" height="354" alt="Image" src="https://github.com/user-attachments/assets/6f60f28d-dfb1-4f69-ac04-34143ec0c72e" />
 
-Скриншот 6. Брандмауэр UFW
+### Скриншот 6. Брандмауэр UFW
 
 <img width="820" height="609" alt="Image" src="https://github.com/user-attachments/assets/9dd18b68-529e-4cfc-a517-fc2e60862c06" />
 
-Скриншот 7. Защита от DDoS
+### Скриншот 7. Защита от DDoS
 
 <img width="659" height="730" alt="Image" src="https://github.com/user-attachments/assets/64aea692-da62-4b66-80e7-af43a576426e" />
 
-Скриншот 8. Настройка создания бэкапов
+### Скриншот 8. Настройка создания бэкапов
 
 <img width="1984" height="636" alt="Image" src="https://github.com/user-attachments/assets/e61ff87c-d556-4168-b46d-123c3fd9979e" />
