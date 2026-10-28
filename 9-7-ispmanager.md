@@ -94,38 +94,54 @@ WordPress - это самое популярное CMS в мире. Широко
 
 ## 5. 5-8 скриншотов, которые подтверждают ключевые настройки (панель, SSL, брандмауэр, бэкапы)
 
-### Скриншот 0. Проверка DNS-записей и доступности почтовых портов
+### Скриншот 1. Проверка DNS-записей и доступности почтовых портов
 
 <img width="659" height="423" alt="Image" src="https://github.com/user-attachments/assets/261ba907-30eb-4ad6-9443-e98497d3ff15" />
 
-### Скриншот 1. Раздел сайты (галочка SSL указывает на корректность работы сертификата)
+### Скриншот 2. Проверка почты онлайн-инструментом: mxtoolbox.com
+
+<img width="1890" height="927" alt="Image" src="https://github.com/user-attachments/assets/dbeb6065-6f40-4c1d-9fa7-845208891b24" />
+
+### Скриншот 3. Проверка почты онлайн-инструментом: wedos.tools
+
+<img width="1653" height="847" alt="Image" src="https://github.com/user-attachments/assets/81f99506-b644-42f7-8773-255b029c99d0" />
+
+### Скриншот 3. Раздел сайты (галочка SSL указывает на корректность работы сертификата)
 
 <img width="1314" height="290" alt="Image" src="https://github.com/user-attachments/assets/db1a6957-51e2-4d34-aa5f-f953e6b271f8" />
 
-### Скриншот 2. SSL-сертификат для сайта
+### Скриншот 4. SSL-сертификат для сайта
 
 <img width="456" height="526" alt="Image" src="https://github.com/user-attachments/assets/444d6516-a031-401b-9f6a-42c03e0ed8a2" />
 
-### Скриншот 3. Почтовые домены
+### Скриншот 5. Почтовые домены
 
 <img width="1512" height="252" alt="Image" src="https://github.com/user-attachments/assets/cf924182-0520-4f78-8549-6fa24c7a44ab" />
 
-### Скриншот 4. Почтовые ящики
+### Скриншот 6. Почтовые ящики
 
 <img width="1601" height="282" alt="Image" src="https://github.com/user-attachments/assets/a9d8cdb9-0b42-40d7-8a27-71b5e2550040" />
 
-### Скриншот 5. Настройки Fail2ban
+### Скриншот 7. Настройки почтового автоответчика
+
+<img width="751" height="768" alt="Image" src="https://github.com/user-attachments/assets/4d1734b1-86c5-4e16-949d-045f9e37f962" />
+
+### Скриншот 8. Ответ от почтового автоответчика
+
+<img width="1379" height="257" alt="Image" src="https://github.com/user-attachments/assets/63a3d374-46ac-4624-b314-af4a68ec9d7f" />
+
+### Скриншот 9. Настройки Fail2ban
 
 <img width="455" height="404" alt="Image" src="https://github.com/user-attachments/assets/e80d2e7c-cba7-42b8-a086-ddbcb58eb0f7" />
 
-### Скриншот 6. Брандмауэр UFW
+### Скриншот 10. Брандмауэр UFW
 
 <img width="810" height="320" alt="Image" src="https://github.com/user-attachments/assets/fb0f34c8-a533-42ab-8ce4-5f988232aecb" />
 
-### Скриншот 7. Защита от DDoS
+### Скриншот 11. Защита от DDoS
 
 <img width="659" height="730" alt="Image" src="https://github.com/user-attachments/assets/64aea692-da62-4b66-80e7-af43a576426e" />
 
-### Скриншот 8. Настройка создания бэкапов
+### Скриншот 12. Настройка создания бэкапов
 
 <img width="1984" height="636" alt="Image" src="https://github.com/user-attachments/assets/e61ff87c-d556-4168-b46d-123c3fd9979e" />
