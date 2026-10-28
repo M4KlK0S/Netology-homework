@@ -106,8 +106,6 @@ WordPress - это самое популярное CMS в мире. Широко
 
 <img width="1653" height="847" alt="Image" src="https://github.com/user-attachments/assets/81f99506-b644-42f7-8773-255b029c99d0" />
 
-### Скриншот 3.1. Проверка почты онлайн-инструментом: wedos.tools
-
 <img width="1641" height="504" alt="Image" src="https://github.com/user-attachments/assets/2db41b3e-54e0-4cc9-b4ba-f63b9626bc48" />
 
 ### Скриншот 3. Раздел сайты (галочка SSL указывает на корректность работы сертификата)
