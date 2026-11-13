@@ -48,11 +48,9 @@ sudo systemctl daemon-reload
 sudo systemctl start prometheus
 sudo systemctl status prometheus
 ```
-Для скриншота: вывод systemctl status prometheus должен содержать строку Description=Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]. Проверьте также stop и restart:
-```bash
-sudo systemctl stop prometheus && sudo systemctl start prometheus
-sudo systemctl restart prometheus
-```
+
+<img width="2531" height="444" alt="image" src="https://github.com/user-attachments/assets/1c997c40-55cd-4d3e-91ed-54805ec8f6dd" />
+
 ## Задание 2. Установка Node Exporter
 
 1. Скачивание и размещение
@@ -89,7 +87,8 @@ sudo systemctl start node-exporter
 sudo systemctl status node-exporter
 curl http://localhost:9100/metrics
 ```
-Скриншот systemctl status node-exporter должен содержать вашу строку Description. Аналогично проверьте stop и restart.
+
+<img width="1532" height="423" alt="image" src="https://github.com/user-attachments/assets/8ed290d6-3ed3-4cd4-83f0-d0abce6a51e9" />
 
 ## Задание 3. Подключение Node Exporter к Prometheus
 
@@ -118,7 +117,12 @@ sudo systemctl status prometheus
 
 Откройте http://<IP-сервера>:9090:
 - Status > Configuration: убедитесь, что в конфигурации присутствует задание node с target localhost:9100.
+
+<img width="321" height="598" alt="image" src="https://github.com/user-attachments/assets/7854ad33-ff83-4b8f-b3bc-271a44b8e3dd" />
+
 - Status > Targets: должны отображаться как минимум два эндпоинта — prometheus (localhost:9090) и node (localhost:9100), оба в состоянии UP.
+
+<img width="2550" height="438" alt="image" src="https://github.com/user-attachments/assets/c35f3a58-36b0-40d0-ba18-b57196cbe4b5" />
 
 ## Задание 4* . Установка Grafana
 
@@ -130,7 +134,7 @@ sudo dpkg -i grafana_12.4.0_amd64.deb
 sudo systemctl start grafana-server
 sudo systemctl status grafana-server
 ```
-Откройте http://<IP-сервера>:3000, войдите с admin/admin. В левом нижнем углу наведите курсор на иконку пользователя — на скриншоте должны быть видны ваши ФИО (если в интерфейсе не отображается, можно изменить имя в профиле пользователя или убедиться, что в системе задано полное имя).
+<img width="680" height="391" alt="image" src="https://github.com/user-attachments/assets/790d35c2-24a4-4695-8707-63de40239e6d" />
 
 ## Задание 5* . Интеграция Grafana и Prometheus
 
@@ -139,4 +143,4 @@ sudo systemctl status grafana-server
 3. В поле Prometheus server URL укажите http://localhost:9090 (если Grafana и Prometheus на одном хосте) .
 4. Нажмите Save & Test, убедитесь, что отображается сообщение об успешном подключении.
 
-После этого можно создать Dashboard и использовать PromQL, например node_cpu_seconds_total или up{job="node"}, для отображения данных Node Exporter.
+<img width="2545" height="287" alt="image" src="https://github.com/user-attachments/assets/94985769-ae56-4721-9126-b1b23db792a6" />
