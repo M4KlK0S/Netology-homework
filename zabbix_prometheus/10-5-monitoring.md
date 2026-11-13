@@ -46,7 +46,9 @@ sudo systemctl restart prometheus
 ```bash
 sudo systemctl stop node-exporter
 ```
-Сразу после остановки откройте в браузере http://<IP>:9090/alerts. Правило NodeExporterDown должно отображаться в состоянии Pending (жёлтый цвет). Успейте сделать скриншот до истечения 1 минуты — после этого правило перейдёт в Firing.
+Сразу после остановки откройте в браузере http://<IP>:9090/alerts. Правило NodeExporterDown должно отображаться в состоянии Pending (жёлтый цвет).
+
+<img width="1886" height="758" alt="image" src="https://github.com/user-attachments/assets/ac1651bf-d18e-4124-8600-77bf2360ebff" />
 
 ## Задание 2. Установка Alertmanager и интеграция с Prometheus
 
@@ -104,9 +106,15 @@ sudo systemctl restart prometheus
 ```
 4. Получение статуса Firing
 
-Убедитесь, что Node Exporter всё ещё остановлен. Подождите более 1 минуты. В Prometheus (http://<IP>:9090/alerts) правило NodeExporterDown перейдёт в статус Firing (красный цвет) — сделайте скриншот.
+Убедитесь, что Node Exporter всё ещё остановлен. Подождите более 1 минуты.
 
-Затем откройте Alertmanager (http://<IP>:9093) — на главной странице должен отображаться активный алерт с именем NodeExporterDown и метками экземпляра. Сделайте скриншот.
+В Prometheus (http://<IP>:9090/alerts) правило NodeExporterDown перейдёт в статус Firing (красный цвет).
+
+<img width="2523" height="521" alt="image" src="https://github.com/user-attachments/assets/50d0f3af-2f1f-4841-8151-5ccb0c6a4381" />
+
+Затем откройте Alertmanager (http://<IP>:9093) — на главной странице должен отображаться активный алерт с именем NodeExporterDown и метками экземпляра.
+
+<img width="1164" height="582" alt="image" src="https://github.com/user-attachments/assets/a7cafc37-5911-4892-a09a-dd6a20c0e359" />
 
 ## Задание 3. Экспортёр метрик Docker и подключение к Prometheus
 
@@ -129,7 +137,7 @@ docker run -d \
 ```
 2. Проверка эндпоинта
 
-Откройте в браузере http://<IP>:8080/metrics. Должна отображаться страница с метриками в формате Prometheus (множество строк container_*, machine_* и т.д.). Сделайте скриншот.
+Откройте в браузере http://<IP>:8080/metrics. Должна отображаться страница с метриками в формате Prometheus (множество строк container_*, machine_* и т.д.).
 
 3. Подключение к Prometheus
 
@@ -150,7 +158,7 @@ scrape_configs:
 ```bash
 sudo systemctl restart prometheus
 ```
-Откройте http://<IP>:9090/targets — в списке должны присутствовать три эндпоинта: prometheus, node, cadvisor, все в состоянии UP. Сделайте скриншот списка таргетов.
+Откройте http://<IP>:9090/targets — в списке должны присутствовать три эндпоинта: prometheus, node, cadvisor, все в состоянии UP.
 
 ## Задание 4* (со звёздочкой). Дашборд Grafana с метриками Docker и сервера
 
@@ -169,6 +177,3 @@ sudo systemctl restart prometheus
 - Память хоста: (1 - node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes) * 100
 - CPU контейнера: sum(rate(container_cpu_usage_seconds_total{name!=""}[5m])) by (name) * 100
 - Память контейнера: container_memory_usage_bytes{name!=""}
-
-После настройки панелей сохраните дашборд и сделайте скриншот.
-
